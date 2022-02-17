@@ -32,7 +32,7 @@
         "laravel/framework": ">=5.3",
         "psr/simple-cache": "^1.0",
         "pragmarx/coollection": "dev-laravel9-support",
-        "pragmarx/countries": ">=0.5.8"
+        "pragmarx/countries": "laravel9-ct-support"
     },
 
     "require-dev": {
